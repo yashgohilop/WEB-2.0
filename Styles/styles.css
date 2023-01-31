@@ -1,0 +1,80 @@
+body{
+    background-color: #041C32;
+    text-align: center;
+    margin: 0%;
+    font-family: 'Aboreto', cursive;
+}
+
+h1{
+    color: #8EC3B0;
+    font-size: 50px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    font-family: 'Limelight', cursive;
+}
+
+h2{
+    color: #8EC3B0;
+    font-family: 'Limelight', cursive;
+}
+
+h3{
+    color: #8EC3B0;
+    font-family: 'Limelight', cursive;
+    margin-top: 30px;
+}
+
+p{
+    color: #FFDCA9;
+}
+
+a{
+    color: #FFF2F2;
+}
+
+.ille{
+    width: 800px;
+    margin-top: 50px;
+    padding-bottom: 40px;
+}
+
+.logo{
+    width: 80px;
+    padding: 0%;
+}
+
+.sklls{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.edit{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.pfp{
+    width: 200px;
+    padding-top: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.h1sk{
+    margin-top: 50px;
+}
+
+.add{
+    color: #FFDCA9;
+}
+
+.pic{
+    width: 30px;
+}
